@@ -1,0 +1,61 @@
+Execution time for small_sorted.txt with BCIS algorithm is 1.025000000000012 ms
+Traced Memory (Current, Peak):  (47563, 48622)
+
+Execution time for small_sorted.txt with CS algorithm is 1.4673000000000047 ms
+Traced Memory (Current, Peak):  (50417, 71473)
+
+
+Execution time for small_random.txt with BCIS algorithm is 25.560800000000008 ms
+Traced Memory (Current, Peak):  (45795, 48286)
+
+Execution time for small_random.txt with CS algorithm is 1.724200000000009 ms
+Traced Memory (Current, Peak):  (49761, 70817)
+
+
+Execution time for small_reversed.txt with BCIS algorithm is 14.958399999999983 ms
+Traced Memory (Current, Peak):  (46255, 48290)
+
+Execution time for small_reversed.txt with CS algorithm is 2.6568000000000147 ms
+Traced Memory (Current, Peak):  (49761, 70817)
+
+
+Execution time for medium_sorted.txt with BCIS algorithm is 27.21659999999998 ms
+Traced Memory (Current, Peak):  (489907, 490584)
+
+Execution time for medium_sorted.txt with CS algorithm is 27.014200000000017 ms
+Traced Memory (Current, Peak):  (529871, 874679)
+
+
+Execution time for medium_random.txt with BCIS algorithm is 3573.5436000000004 ms
+Traced Memory (Current, Peak):  (489907, 490587)
+
+Execution time for medium_random.txt with CS algorithm is 30.356600000000178 ms
+Traced Memory (Current, Peak):  (529871, 874679)
+
+
+Execution time for medium_reversed.txt with BCIS algorithm is 4194.03 ms
+Traced Memory (Current, Peak):  (489911, 490564)
+
+Execution time for medium_reversed.txt with CS algorithm is 22.132500000001443 ms
+Traced Memory (Current, Peak):  (529871, 874679)
+
+
+Execution time for large_sorted.txt with BCIS algorithm is 183.6410999999991 ms
+Traced Memory (Current, Peak):  (5029217, 5029891)
+
+Execution time for large_sorted.txt with CS algorithm is 228.24190000000044 ms
+Traced Memory (Current, Peak):  (5429183, 9016371)
+
+
+Execution time for large_random.txt with BCIS algorithm is 206060.3554 ms
+Traced Memory (Current, Peak):  (5029217, 5029873)
+
+Execution time for large_random.txt with CS algorithm is 281.2847000000147 ms
+Traced Memory (Current, Peak):  (5429183, 9016371)
+
+
+Execution time for large_reversed.txt with BCIS algorithm is 419744.8831 ms
+Traced Memory (Current, Peak):  (5029221, 5029883)
+
+Execution time for large_reversed.txt with CS algorithm is 231.24119999999948 ms
+Traced Memory (Current, Peak):  (5429183, 9016371)
